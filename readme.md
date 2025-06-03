@@ -22,22 +22,26 @@
 /give @a minecraft:netherite_sword[minecraft:item_name='{"text":"聆沧","color":"light_purple"}',minecraft:lore=['{"text":『此剑诛神』,"color":"yellow","italic":false}'],minecraft:custom_model_data=12700002,minecraft:rarity=epic,minecraft:fire_resistant={},minecraft:attribute_modifiers={modifiers:[{id:"attack_damage",amount:11d,slot:"mainhand",type:"minecraft:generic.attack_damage",operation:"add_value"},{id:"attack_speed",amount:-2.4d,slot:"mainhand",type:"minecraft:generic.attack_speed",operation:"add_value"}]},minecraft:unbreakable={}]
 ```
 幽暮加2触及距离,1.2攻速（基于合金剑）3096耐久 id12700003
+```
 /give @a minecraft:netherite_sword[minecraft:item_name='{"text":"幽岩暮光","color":"red"}',minecraft:lore=['{"text":"斩断恐惧，迎接涅槃","color":"dark_red","italic":false}'],minecraft:custom_model_data=12700003,minecraft:rarity=epic,minecraft:fire_resistant={},minecraft:attribute_modifiers={modifiers:[{id:"attack_damage",amount:8d,slot:"mainhand",type:"minecraft:generic.attack_damage",operation:"add_value"},{id:"attack_speed",amount:-2.8d,slot:"mainhand",type:"minecraft:generic.attack_speed",operation:"add_value"},{id:"attack_range",amount:2.5d,slot:"mainhand",type:"minecraft:player.entity_interaction_range",operation:"add_value"}]},minecraft:max_damage=3096]
-
+```
 修复后盖尔大剑耐久2300 id 12700004
+```
 /give @a minecraft:netherite_sword[minecraft:item_name='{"text":"盖尔大剑","color":"red"}',minecraft:lore=['{"text":"你听到剑上传来若有若无的低语","color":"dark_purple","italic":false}','{"text":"把你的灵魂，你的黑暗灵魂给我……","color":"dark_red","italic":true}'],minecraft:custom_model_data=12700004,minecraft:rarity=epic,minecraft:fire_resistant={},minecraft:max_damage=2300]
-
+```
 全村最好的镐，合金镐模板1746耐久，+2方块触及距离  id12700005
+```
 /give @a minecraft:netherite_pickaxe[minecraft:item_name='{"text":"全村最好的镐","color":"green"}',minecraft:lore=['{"text":"纳米奸商，小子","color":"dark_green","italic":false,"bold":true}'],minecraft:custom_model_data=12700005,minecraft:rarity=epic,minecraft:attribute_modifiers={modifiers:[{id:"attack_damage",amount:4d,slot:"mainhand",type:"minecraft:generic.attack_damage",operation:"add_value"},{id:"attack_speed",amount:-2.8d,slot:"mainhand",type:"minecraft:generic.attack_speed",operation:"add_value"},{id:"mine_range",amount:2d,slot:"mainhand",type:"minecraft:player.block_interaction_range",operation:"add_value"}]},minecraft:max_damage=1746,minecraft:enchantment_glint_override=true]
-
+```
 附魔铁苹果：食物，吃下后获得2分钟抗性提升2和力量1 id12700006 √
 铁苹果：食物，吃下后获得1分钟抗性提升1和力量1 id12700007 √
 附魔钻石苹果：食物，吃下后获得2分钟的速度4和急迫2和力量2，以及3分钟幸运5 id12700008 √
 钻石苹果：食物，吃下后获得1分钟的速度2和急迫1 id12700009 √
 魔镜：右键使用返回床/重生锚位置 id12700010
 丰饶苹果 id12700011
-
+```
 /give @a minecraft:enchanted_golden_apple[minecraft:item_name='{"text":"丰饶苹果"}',minecraft:custom_model_data=12700011,minecraft:rarity=epic,minecraft:enchantment_glint_override=true,minecraft:food={saturation:7.2f,effects:[{effect:{duration:99999999,amplifier:1b,show_icon:1b,id:"minecraft:wither"}},{effect:{duration:99999999,amplifier:0b,show_icon:1b,id:"minecraft:blindness"}},{effect:{duration:99999999,amplifier:0b,show_icon:1b,id:"minecraft:nausea"}},{effect:{duration:99999999,amplifier:0b,show_icon:1b,id:"minecraft:hunger"}},{effect:{duration:99999999,amplifier:0b,show_icon:1b,id:"minecraft:slowness"}},{effect:{duration:99999999,amplifier:0b,show_icon:1b,id:"minecraft:poison"}}],nutrition:4,can_always_eat:1b}]
+```
 回忆药水 id12700012
 龙之锻造模板 id12700013 末地城生成 √
 
@@ -62,4 +66,5 @@
 战术核显卡 id40900002
 月饼 id40900003 √
 阴间土豆 id40900004
+```
 /give @a minecraft:command_block[minecraft:item_name='{"text":"NeoTcc服务器"}',minecraft:fire_resistant={},food={nutrition:2d,saturation:1.2f,can_always_eat:true,effects:[{effect:{id:"minecraft:poison",duration:200,amplifier:1b,show_icon:true,show_particles:true}}]},minecraft:lore=['{"text":"破烂","color":"white","italic":false}','{"text":"虽然这玩意无论如何看起来都是个土豆的样子，","color":"gray","italic":false}','{"text":"但你确信,它是,或者说,曾经是一个Minecraft服务器。","color":"gray","italic":false}','{"text":"来源","color":"yellow","italic":false}','{"text":"服务器崩溃后在机房获得","color":"aqua","italic":false}'],minecraft:custom_model_data=40900004]
