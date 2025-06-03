@@ -16,7 +16,7 @@
 湛影无限耐久，攻击力9点（基于合金剑）,2.0攻速 id12700001
 ```
 /give @a minecraft:netherite_sword[minecraft:item_name='{"text":"湛影","color":"light_purple"}',minecraft:lore=['{"text":『此剑破祟』,"color":"blue","italic":false}'],minecraft:custom_model_data=12700001,minecraft:rarity=epic,minecraft:fire_resistant={},minecraft:attribute_modifiers={modifiers:[{id:"attack_damage",amount:8d,slot:"mainhand",type:"minecraft:generic.attack_damage",operation:"add_value"},{id:"attack_speed",amount:+99d,slot:"mainhand",type:"minecraft:generic.attack_speed",operation:"add_value"}]},minecraft:unbreakable={}]
-
+```
 聆沧无限耐久，攻击力9点（基于合金剑）,+1触及距离 id12700002
 ```
 /give @a minecraft:netherite_sword[minecraft:item_name='{"text":"聆沧","color":"light_purple"}',minecraft:lore=['{"text":『此剑诛神』,"color":"yellow","italic":false}'],minecraft:custom_model_data=12700002,minecraft:rarity=epic,minecraft:fire_resistant={},minecraft:attribute_modifiers={modifiers:[{id:"attack_damage",amount:11d,slot:"mainhand",type:"minecraft:generic.attack_damage",operation:"add_value"},{id:"attack_speed",amount:-2.4d,slot:"mainhand",type:"minecraft:generic.attack_speed",operation:"add_value"}]},minecraft:unbreakable={}]
