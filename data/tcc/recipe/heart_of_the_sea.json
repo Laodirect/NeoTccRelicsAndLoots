@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "L": "minecraft:sea_lantern",
+      "D":  "minecraft:nether_star",
+      "S":  "minecraft:nautilus_shell"
+    },
+    "pattern": [
+      "SLS",
+      "LDL",
+      "SLS"
+    ],
+    "result": {
+      "id": "minecraft:heart_of_the_sea"
+    },
+    "show_notification": true
+  }

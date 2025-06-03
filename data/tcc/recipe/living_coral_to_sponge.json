@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L":  "minecraft:prismarine_crystals",
+    "D": "#minecraft:living_coral_blocks",
+    "S": "minecraft:string"
+  },
+  "pattern": [
+    "SLS",
+    "LDL",
+    "SLS"
+  ],
+  "result": {
+    "id": "minecraft:sponge"
+  },
+  "show_notification": true
+}

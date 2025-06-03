@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:iron_ingot",
+    "X":  "minecraft:end_crystal"
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:apple",
+    "components": {
+      "custom_model_data":{"floats":[12700010]},
+      "item_name": "魔镜",
+      "max_stack_size":1,
+      "rarity":"rare",
+      "food":{
+        "eat_seconds":1.0,
+        "saturation":0.0,
+        "effects":[],
+        "nutrition":0,
+        "can_always_eat":true
+      }
+    }
+  }
+}
