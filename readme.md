@@ -1,4 +1,4 @@
-## NeoTccRelicsAndLoots v2.33
+## NeoTccRelicsAndLoots v2.38
 
 ### 收藏品调整：  
 129前缀是合成盔甲收藏品   
